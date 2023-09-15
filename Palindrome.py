@@ -9,7 +9,9 @@ def main():
           print("It is a palindrome")
         else:
           print("It is not a palindrome")
-      else:
+      else:hip
+        t9g8'ouopjlg'ioog'8P
+      ihp
         print("The str length between 2 to 100")
   else:
     print("Enter the t value upto 5")
